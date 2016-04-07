@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"FakeImg.pl Image Placeholder Snippet",
+		"Gist",
+		"Goto-CSS-Declaration",
+		"Gulp",
+		"Jade",
+		"Package Control",
+		"Sass",
+		"Tag",
+		"Theme - Spacegray",
+		"W3CValidators",
+		"WebFont",
+		"WordPress Generate Salts"
+	]
+}
