@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"Bower",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"FakeImg.pl Image Placeholder Snippet",
+		"Gist",
+		"Git",
+		"Goto-CSS-Declaration",
+		"Gulp",
+		"Jade",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"Tag",
+		"Terminal",
+		"Theme - Spacegray",
+		"W3CValidators",
+		"WebFont",
+		"WordPress Generate Salts"
+	],
+	"repositories":
+	[
+		"https://github.com/equinusocio/material-theme.git"
+	]
+}
